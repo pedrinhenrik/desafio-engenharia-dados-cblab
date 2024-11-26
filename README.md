@@ -29,4 +29,10 @@ Cada arquivo representa uma tabela do banco de dados:
   - Armazena possíveis erros relacionados ao processamento de pedidos.
 
 # Desafio 1 - Questão 3: Abordagem escolhida
-A resposta foi adicionado no arquivo [resposta_3.md](respostas/resposta_3_desafio_1.md)
+A resposta foi adicionado no arquivo [resposta_3_desafio_1.md](respostas/resposta_3_desafio_1.md)
+
+# Desafio 2 - Questão 1: Por que armazenar as respostas das APIs?
+A resposta foi adicionado no arquivo [resposta_1_desafio_2.md](respostas/resposta_1_desafio_2.md)
+
+# Desafio 2 - Questão 2:  Como você armazenaria os dados? Crie uma estrutura de pastas capaz de armazenar as respostas da API. Ela deve permitir manipulação, verificações, buscas e pesquisas rápidas.
+A resposta com a estrutura de pastas, foram adicionados no arquivo [resposta_2_desafio_2.md](respostas/resposta_2_desafio_2.md)
