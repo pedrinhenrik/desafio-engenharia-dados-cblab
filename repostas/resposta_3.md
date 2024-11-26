@@ -1,4 +1,0 @@
-# Desafio 1 - Questão 3: Abordagem escolhida
-## Resposta:
-A abordagem que escolhi foi a criação de modelo relacional baseado no My SQL utilizando tabelas SQL para apresentar tudo que foi obtido do JSON.
-Fiz o esboço da estrutura mentalmente e tentei projetar as relações entre as tabelas assim como pede na parte 2 do desafio, relacionando suas relações e hierarquias a tabela detailLines que foi definida como central pela sua relação com as outras.A escolha pelo MySQL é justificada pela sua robustez, suporte amplo, e facilidade no seu uso, o que permitiu desenvolver um modelo que estaria confiante para colocar em produção. Assim facilitando a operação do restaurante com consultas futuras e bem detalhadas e estruturadas, sem perder nenhuma informação, também garante uma escalabilidade para futuros alinhamentos e uma flexibilidade de ser modificada.
