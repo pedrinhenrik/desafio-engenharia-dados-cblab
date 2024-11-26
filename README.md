@@ -29,4 +29,4 @@ Cada arquivo representa uma tabela do banco de dados:
   - Armazena possíveis erros relacionados ao processamento de pedidos.
 
 # Desafio 1 - Questão 3: Abordagem escolhida
-A resposta foi adicionado no arquivo [resposta_3.md](respostas/resposta_3.md)
+A resposta foi adicionado no arquivo [resposta_3.md](respostas/resposta_3_desafio_1.md)
