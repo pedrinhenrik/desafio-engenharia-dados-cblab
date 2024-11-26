@@ -36,3 +36,8 @@ A resposta foi adicionado no arquivo [resposta_1_desafio_2.md](respostas/respost
 
 # Desafio 2 - Questão 2:  Como você armazenaria os dados? Crie uma estrutura de pastas capaz de armazenar as respostas da API. Ela deve permitir manipulação, verificações, buscas e pesquisas rápidas.
 A resposta com a estrutura de pastas, foram adicionados no arquivo [resposta_2_desafio_2.md](respostas/resposta_2_desafio_2.md)
+
+# Desafio 2 - Questão 3:  Considere que a resposta do endpoint getGuestChecks foi alterada, por exemplo, guestChecks.taxes foi renomeado para guestChecks.taxation. O que isso implicaria?
+A resposta foi adicionado no arquivo [resposta_2_desafio_2.md](respostas/resposta_3_desafio_2.md)
+
+Qualquer dúvida, entrar em contato: e-mail: pedroliberal100@gmail.com
