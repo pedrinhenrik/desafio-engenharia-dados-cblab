@@ -2,6 +2,7 @@
 # Resposta:
 # Estrutura de Pastas para Armazenar Dados das APIs:
 
+```plaintext
 data_lake
 	|-respostas_api  					// Diretorio principal para as respostas
 		|-fiscal_invoice 				// Endpoint: getFiscalInvoice
