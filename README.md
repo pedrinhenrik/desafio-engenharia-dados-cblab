@@ -8,4 +8,4 @@ Este repositório contém as respostas para o desafio de Engenharia de Dados do 
 - **src/**: Scripts para simular o consumo e a organização dos dados.
 
 ## Desafio 1 - Questão 1: Esquema JSON comentao
-A resposta para a questão 1 do desafio está localizada no arquivo [erp_comentado.json](resposta/erp_comentado.json).
+A resposta para a questão 1 do desafio está localizada no arquivo [erp_comentado.json](respostas/erp_comentado.json).
