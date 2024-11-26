@@ -11,7 +11,7 @@ Este repositório contém as respostas para o desafio de Engenharia de Dados do 
 A resposta para a questão 1 do desafio está localizada no arquivo [erp_comentado.json](respostas/erp_comentado.json).
 
 ## Desafio 1 - Questão 2: Transcrição de JSON para tabelas SQL
-A resposta para a questão 2 do desafio está localizada na pasta [SQL/](sql/)
+A resposta para a questão 2 do desafio está localizada na pasta [SQL/](SQL/)
 Cada arquivo representa uma tabela do banco de dados:
 - **`guestCheck.sql`**:
   - Armazena informações sobre os pedidos (comandas).
