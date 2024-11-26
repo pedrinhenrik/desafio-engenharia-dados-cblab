@@ -1,0 +1,76 @@
+{
+    "curUTC": "2024-05-05T06:06:06", // Data e hora atual
+    "locRef": "99 CB CB", // Referência de localização 
+    "guestChecks": [ // Lista de comandas
+        {
+            "guestCheckId": 1122334455, // ID único do pedido feito
+            "chkNum": 1234, // Número da comanda
+            "opnBusDt": "2024-01-01", // Data da abertura da comanda
+            "opnUTC": "2024-01-01T09:09:09", // Horario e data da abertura da comanda em UTC
+            "opnLcl": "2024-01-01T06:09:09", // Horario e data da abertura da comanda no local
+            "clsdBusDt": "2024-01-01", // Data do fechamendo da comanda
+            "clsdUTC": "2024-01-01T12:12:12", // Horario e data do fechamento da comanda em UTC
+            "clsdLcl": "2024-01-01T09:12:12", // Horario e data do fechamento da comanda no local
+            "lastTransUTC": "2024-01-01T12:12:12", // Horario e data da última transação
+            "lastTransLcl": "2024-01-01T09:12:12", // Horario e data da última transação no local
+            "lastUpdatedUTC": "2024-01-01T13:13:13", // Data e hora da última atualização no formato UTC
+            "lastUpdatedLcl": "2024-01-01T10:13:13", // Data e hora da última atualização no local
+            "clsdFlag": true, // Indicativo se comanda está fechada ou não
+            "gstCnt": 1, // Número de pessoas
+            "subTtl": 109.9, // Subtotal da comanda
+            "nonTxblSlsTtl": null, // Itens não tributáveis 
+            "chkTtl": 109.9, // Total da comanda
+            "dscTtl": -10, // Desconto aplicado
+            "payTtl": 109.9, // Total pago
+            "balDueTtl": null, // Saldo Restante (NULL = sem saldo restante, totalmente pago)
+            "rvcNum": 101, // Referencia de estabelecimetno
+            "otNum": 1, // Número de ordem de transação
+            "ocNum": null, // Número de ordem
+            "tblNum": 1, // Número da mesa do pedido
+            "tblName": "90", // Nome da mesa do pedido
+            "empNum": 55555, // Codigo do funcionário responsável
+            "numSrvcRd": 3, // Número de quantidade de vezes de rodadas de serviço
+            "numChkPrntd": 2, // Vezes que a comanda foi impressa
+            "taxes": [ // Impostos
+                {
+                    "taxNum": 28, // Código do imposto
+                    "txblSlsTtl": 119.9, // Total com os tributos
+                    "taxCollTtl": 20.81, // Total de impostos arrecadados
+                    "taxRate": 21, // Taxa dos impostos
+                    "type": 3 // Tipo do imposto
+                }
+            ],
+            "detailLines": [ // Lista de itens
+                {
+                    "guestCheckLineItemId": 9988776655, // ID do item do pedido
+                    "rvcNum": 123, // Referencia de estabelecimetno
+                    "dtlOtNum": 1, // Ordem de transação do detalhe do item
+                    "dtlOcNum": null, // Número de ordem de conta associada do detalhe
+                    "lineNum": 1, // Número da linha do item na comanda
+                    "dtlId": 1, // ID interno para identificar o detalhe do item
+                    "detailUTC": "2024-01-01T09:09:09", // Data e hora do registro do item em formato UTC
+                    "detailLcl": "2024-01-01T06:09:09", // Data e hora do registro do item no local
+                    "lastUpdateUTC": "2024-11-01T10:10:10", // Última atualização do item em UTC
+                    "lastUpdateLcl": "2024-01-01T07:10:10", // Última atualização do item no local
+                    "busDt": "2024-01-01", // Data comercial do item
+                    "wsNum": 7, // Número do worksation (Estação de trabalho)
+                    "dspTtl": 119.9, // Total do item
+                    "dspQty": 1, // Quantidade do item
+                    "aggTtl": 119.9, // Total agregado do item
+                    "aggQty": 1, // Quantidade agregada do item
+                    "chkEmpId": 10454318, // ID do empregado responsável
+                    "chkEmpNum": 81001, // Número do empregado responsável
+                    "svcRndNum": 1, // Número da rodada de serviço
+                    "seatNum": 1, // Numero do lugar
+                    "menuItem": { // Item menu
+                        "miNum": 6042, // ID do item no menu
+                        "modFlag": false, // Indica se item foi modificado
+                        "inclTax": 20.809091, // Valor do imposto sobre o item
+                        "activeTaxes": "28", // Código do imposto do item
+                        "prcLvl": 3 // Nível do preço do item
+                    }
+                }
+            ]
+        }
+    ]
+}
